@@ -5,7 +5,7 @@ import java.util.List;
 import com.opencsv.*;
 
 /**
- * Evaluate Single Variable Multi-Class Regression
+ * Evaluate Multi-Class Classification
  */
 public class App 
 {
