@@ -10,3 +10,7 @@ Run SVBR
 ```
 java -jar target/SVBR-1.0.0-jar-with-dependencies.jar
 ```
+Run MCC
+```
+java -jar target/MCC-1.0.0-jar-with-dependencies.jar
+```
